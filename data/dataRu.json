@@ -1,0 +1,318 @@
+{
+  "movie1": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-07-10",
+    "duration": "2ч 14мин",
+    "showtime": "19:00",
+    "trailerId": "trailer1",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  },
+  "movie2": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-07-15",
+    "duration": "2ч 5мин",
+    "showtime": "21:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  },
+  "movie3": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-07-20",
+    "duration": "2ч 30мин",
+    "showtime": "20:30",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  },
+  "movie4": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-07-22",
+    "duration": "2ч 28мин",
+    "showtime": "18:45",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  },
+  "movie5": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-07-25",
+    "duration": "3ч 12мин",
+    "showtime": "17:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  },
+  "movie6": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-07-28",
+    "duration": "2ч 46мин",
+    "showtime": "20:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  },
+  "movie7": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "Чёрная пантера",
+    "releaseDate": "2025-08-01",
+    "duration": "2ч 20мин",
+    "showtime": "22:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "Пн": true,
+      "Вт": true,
+      "Ср": false,
+      "Чт": true,
+      "Пт": false,
+      "Сб": false,
+      "Вс": true
+    },
+    "menu": {
+      "single": {
+        "title": "Комбо на одного",
+        "oldPrice": "45 лари",
+        "newPrice": "25 лари",
+        "items": [
+          "Попкорн (основной)",
+          "Кока-кола 0,5л",
+          "Начос с сыром",
+          "Шоколадный батончик",
+          "Вода 0,5л"
+        ]
+      },
+      "double": {
+        "title": "Комбо на двоих",
+        "oldPrice": "65 лари",
+        "newPrice": "45 лари",
+        "items": [
+          "Большой попкорн (основной)",
+          "Кока-кола 1л (2 шт)",
+          "Начос с сыром (большой)",
+          "Шоколадный батончик (2 шт)",
+          "Вода 0,5л (2 шт)",
+          "Конфеты M&M's",
+          "Хот-дог (2 шт)"
+        ]
+      }
+    }
+  }
+}

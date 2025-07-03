@@ -1,0 +1,318 @@
+{
+  "movie1": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-07-10",
+    "duration": "2სთ 14წთ",
+    "showtime": "19:00",
+    "trailerId": "trailer1",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  },
+  "movie2": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-07-15",
+    "duration": "2სთ 5წთ",
+    "showtime": "21:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  },
+  "movie3": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-07-20",
+    "duration": "2სთ 30წთ",
+    "showtime": "20:30",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  },
+  "movie4": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-07-22",
+    "duration": "2სთ 28წთ",
+    "showtime": "18:45",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  },
+  "movie5": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-07-25",
+    "duration": "3სთ 12წთ",
+    "showtime": "17:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  },
+  "movie6": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-07-28",
+    "duration": "2სთ 46წთ",
+    "showtime": "20:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  },
+  "movie7": {
+    "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+    "title": "შავი პანტერა",
+    "releaseDate": "2025-08-01",
+    "duration": "2სთ 20წთ",
+    "showtime": "22:00",
+    "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    "availableDays": {
+      "ორშ": true,
+      "სამ": true,
+      "ოთხ": false,
+      "ხუთ": true,
+      "პარ": false,
+      "შაბ": false,
+      "კვი": true
+    },
+    "menu": {
+      "single": {
+        "title": "ერთ კაციანი კომბო",
+        "oldPrice": "45ლ",
+        "newPrice": "25ლ",
+        "items": [
+          "პოპკორნი (მთავარი)",
+          "კოკა-კოლა 0.5ლ",
+          "ნაცოსი ყველით",
+          "შოკოლადის ბატონი",
+          "წყალი 0.5ლ"
+        ]
+      },
+      "double": {
+        "title": "ორ კაციანი კომბო",
+        "oldPrice": "65ლ",
+        "newPrice": "45ლ",
+        "items": [
+          "დიდი პოპკორნი (მთავარი)",
+          "კოკა-კოლა 1ლ (2 ცალი)",
+          "ნაცოსი ყველით (დიდი)",
+          "შოკოლადის ბატონი (2 ცალი)",
+          "წყალი 0.5ლ (2 ცალი)",
+          "M&M's კონფეტი",
+          "ჰოთ-დოგი (2 ცალი)"
+        ]
+      }
+    }
+  }
+}
