@@ -3,18 +3,18 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-07-10",
-    "duration": "2სთ 14წთ",
+    "date": "19 ივლისი",
     "showtime": "19:00",
     "trailerId": "trailer1",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
       "ორშ": true,
-      "სამ": true,
+      "სამ": false,
       "ოთხ": false,
-      "ხუთ": true,
+      "ხუთ": false,
       "პარ": false,
       "შაბ": false,
-      "კვი": true
+      "კვი": false
     },
     "menu": {
       "single": {
@@ -49,17 +49,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-07-15",
-    "duration": "2სთ 5წთ",
+    "date": "19 ივლისი",
     "showtime": "21:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "ორშ": true,
+      "ორშ": false,
       "სამ": true,
       "ოთხ": false,
-      "ხუთ": true,
+      "ხუთ": false,
       "პარ": false,
       "შაბ": false,
-      "კვი": true
+      "კვი": false
     },
     "menu": {
       "single": {
@@ -94,17 +94,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-07-20",
-    "duration": "2სთ 30წთ",
+    "date": "19 ივლისი",
     "showtime": "20:30",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "ორშ": true,
-      "სამ": true,
-      "ოთხ": false,
-      "ხუთ": true,
+      "ორშ": false,
+      "სამ": false,
+      "ოთხ": true,
+      "ხუთ": false,
       "პარ": false,
       "შაბ": false,
-      "კვი": true
+      "კვი": false
     },
     "menu": {
       "single": {
@@ -139,17 +139,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-07-22",
-    "duration": "2სთ 28წთ",
+    "date": "19 ივლისი",
     "showtime": "18:45",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "ორშ": true,
-      "სამ": true,
+      "ორშ": false,
+      "სამ": false,
       "ოთხ": false,
       "ხუთ": true,
       "პარ": false,
       "შაბ": false,
-      "კვი": true
+      "კვი": false
     },
     "menu": {
       "single": {
@@ -184,17 +184,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-07-25",
-    "duration": "3სთ 12წთ",
+    "date": "19 ივლისი",
     "showtime": "17:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "ორშ": true,
-      "სამ": true,
+      "ორშ": false,
+      "სამ": false,
       "ოთხ": false,
-      "ხუთ": true,
-      "პარ": false,
+      "ხუთ": false,
+      "პარ": true,
       "შაბ": false,
-      "კვი": true
+      "კვი": false
     },
     "menu": {
       "single": {
@@ -229,17 +229,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-07-28",
-    "duration": "2სთ 46წთ",
+    "date": "19 ივლისი",
     "showtime": "20:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "ორშ": true,
-      "სამ": true,
+      "ორშ": false,
+      "სამ": false,
       "ოთხ": false,
-      "ხუთ": true,
+      "ხუთ": false,
       "პარ": false,
-      "შაბ": false,
-      "კვი": true
+      "შაბ": true,
+      "კვი": false
     },
     "menu": {
       "single": {
@@ -274,14 +274,14 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "შავი პანტერა",
     "releaseDate": "2025-08-01",
-    "duration": "2სთ 20წთ",
+    "date": "19 ივლისი",
     "showtime": "22:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "ორშ": true,
-      "სამ": true,
+      "ორშ": false,
+      "სამ": false,
       "ოთხ": false,
-      "ხუთ": true,
+      "ხუთ": false,
       "პარ": false,
       "შაბ": false,
       "კვი": true

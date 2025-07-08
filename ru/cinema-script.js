@@ -53,7 +53,7 @@ function renderMovieCards(moviesData) {
         ▶ ტრეილერი
       </button>
 
-      <div class="date_btn">${movie.duration} | ${movie.showtime}</div>
+      <div class="date_btn">${movie.date} | ${movie.showtime}</div>
       <div class="movie-info">
         <h3>${movie.title}</h3>
         <div class="movie-schedule">${daysHTML}</div>

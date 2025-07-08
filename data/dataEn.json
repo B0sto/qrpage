@@ -3,18 +3,18 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-07-10",
-    "duration": "2h 14min",
+    "date": "19th July",
     "showtime": "19:00",
     "trailerId": "trailer1",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
       "Mon": true,
-      "Tue": true,
+      "Tue": false,
       "Wed": false,
-      "Thu": true,
+      "Thu": false,
       "Fri": false,
       "Sat": false,
-      "Sun": true
+      "Sun": false
     },
     "menu": {
       "single": {
@@ -49,17 +49,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-07-15",
-    "duration": "2h 5min",
+    "date": "19th July",
     "showtime": "21:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "Mon": true,
+      "Mon": false,
       "Tue": true,
       "Wed": false,
-      "Thu": true,
+      "Thu": false,
       "Fri": false,
       "Sat": false,
-      "Sun": true
+      "Sun": false
     },
     "menu": {
       "single": {
@@ -94,17 +94,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-07-20",
-    "duration": "2h 30min",
+    "date": "19th July",
     "showtime": "20:30",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "Mon": true,
-      "Tue": true,
-      "Wed": false,
-      "Thu": true,
+      "Mon": false,
+      "Tue": false,
+      "Wed": true,
+      "Thu": false,
       "Fri": false,
       "Sat": false,
-      "Sun": true
+      "Sun": false
     },
     "menu": {
       "single": {
@@ -139,17 +139,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-07-22",
-    "duration": "2h 28min",
+    "date": "19th July",
     "showtime": "18:45",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "Mon": true,
-      "Tue": true,
+      "Mon": false,
+      "Tue": false,
       "Wed": false,
       "Thu": true,
       "Fri": false,
       "Sat": false,
-      "Sun": true
+      "Sun": false
     },
     "menu": {
       "single": {
@@ -184,17 +184,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-07-25",
-    "duration": "3h 12min",
+    "date": "19th July",
     "showtime": "17:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "Mon": true,
-      "Tue": true,
+      "Mon": false,
+      "Tue": false,
       "Wed": false,
-      "Thu": true,
-      "Fri": false,
+      "Thu": false,
+      "Fri": true,
       "Sat": false,
-      "Sun": true
+      "Sun": false
     },
     "menu": {
       "single": {
@@ -229,17 +229,17 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-07-28",
-    "duration": "2h 46min",
+    "date": "19th July",
     "showtime": "20:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "Mon": true,
-      "Tue": true,
+      "Mon": false,
+      "Tue": false,
       "Wed": false,
-      "Thu": true,
+      "Thu": false,
       "Fri": false,
-      "Sat": false,
-      "Sun": true
+      "Sat": true,
+      "Sun": false
     },
     "menu": {
       "single": {
@@ -274,14 +274,14 @@
     "url": "https://www.youtube.com/embed/xjDjIWPwcPU",
     "title": "Black Panther",
     "releaseDate": "2025-08-01",
-    "duration": "2h 20min",
+    "date": "19th July",
     "showtime": "22:00",
     "image": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
     "availableDays": {
-      "Mon": true,
-      "Tue": true,
+      "Mon": false,
+      "Tue": false,
       "Wed": false,
-      "Thu": true,
+      "Thu": false,
       "Fri": false,
       "Sat": false,
       "Sun": true

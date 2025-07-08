@@ -61,7 +61,7 @@ body {
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: #f39c12;
+    color: white;
     font-weight: 600;
     font-size: 1.1rem;
     transition: color 0.3s ease;
@@ -78,7 +78,7 @@ body {
 
 .cinema-header h1 {
     font-size: 2.4rem;
-    color: #f39c12;
+    color: white
 }
 
 /* Room section styling */
@@ -134,7 +134,7 @@ body {
     top: 50%;
     transform: translateY(-50%);
     background: rgba(0, 0, 0, 0.45);
-    color: #f39c12;
+    color: white;
     border: none;
     font-size: 24px;
     padding: 8px 14px;
@@ -169,7 +169,7 @@ body {
 
 .room-details h2 {
     font-size: 2rem;
-    color: #f39c12;
+    color: white;
     font-weight: 700;
 }
 
@@ -179,35 +179,6 @@ body {
     opacity: 0.9;
 }
 
-.room-price {
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: #f39c12;
-}
-
-/* Booking button */
-.room-details .btn {
-    align-self: flex-start;
-    background: #f39c12;
-    border: none;
-    color: #111;
-    font-weight: 600;
-    padding: 12px 30px;
-    font-size: 1.1rem;
-    border-radius: 30px;
-    cursor: pointer;
-    box-shadow: 0 6px 15px rgba(243, 156, 18, 0.7);
-    text-decoration: none;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    user-select: none;
-}
-
-.room-details .btn:hover {
-    background: #f6c65a;
-    box-shadow: 0 8px 20px rgba(246, 198, 90, 0.9);
-}
-
-/* Modal styles */
 .image-modal {
     position: fixed;
     top: 0;
@@ -330,7 +301,7 @@ body {
 
 .footer-section h3,
 .footer-section h4 {
-    color: #f39c12;
+    color: white;
     margin-bottom: 15px;
 }
 
@@ -370,10 +341,6 @@ body {
         text-align: center;
         align-items: center;
         justify-content: center;
-    }
-
-    .footer {
-
     }
 
     .footer-section.logo img {
